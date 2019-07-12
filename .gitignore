@@ -1,0 +1,5 @@
+/.git
+/.vs
+/packages
+/AutoWriteGitIngoreFile/obj
+/AutoWriteGitIngoreFile/bin
